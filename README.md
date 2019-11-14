@@ -1,6 +1,6 @@
 # Node - Play a Recording Tutorial
 
-This project serves as a guide to help you build an application with FreeClimb. Specifically, the project will:
+This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/play-a-recording#section-javascript). Specifically, the project will:
 
 - Play a recording to a caller during a call.   
 
